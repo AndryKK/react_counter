@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CACjB,wBAA8B,CAC9B,WAAY,CACZ,UAAW","file":"main.d9618cb2.chunk.css","sourcesContent":[".button {\n  margin-left: 15px;\n  background-color: antiquewhite;\n  height: 25px;\n  width: 80px;\n}\n"]}
